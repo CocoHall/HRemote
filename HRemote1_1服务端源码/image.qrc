@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/disconnect.png</file>
+        <file>image/file.png</file>
+        <file>image/mute.png</file>
+        <file>image/screen.png</file>
+        <file>image/session.png</file>
+        <file>image/shutdown.png</file>
+        <file>image/terminal.png</file>
+        <file>image/voice.png</file>
+        <file>image/listening.png</file>
+        <file>image/keylog.png</file>
+        <file>image/process.png</file>
+        <file>image/refresh.png</file>
+        <file>image/clear.png</file>
+        <file>image/play.png</file>
+        <file>image/stop.png</file>
+        <file>image/file_back.png</file>
+        <file>image/file_forward.png</file>
+        <file>image/file_refresh.png</file>
+        <file>image/file_download.png</file>
+        <file>image/file_upload.png</file>
+        <file>image/file_cut.png</file>
+        <file>image/file_paste.png</file>
+        <file>image/file_copy.png</file>
+        <file>image/file_delete.png</file>
+        <file>image/DRIVE_FIXED.png</file>
+        <file>image/DRIVE_REMOVABLE.png</file>
+        <file>image/DRIVE_REMOTE.png</file>
+        <file>image/DRIVE_CDROM.png</file>
+        <file>image/DRIVE_NO_ROOT_DIR.png</file>
+        <file>image/DRIVE_RAMDISK.png</file>
+        <file>image/DRIVE_UNKNOWN.png</file>
+        <file>image/folder.png</file>
+        <file>image/file_rename.png</file>
+        <file>image/file_run.png</file>
+        <file>image/exit.png</file>
+        <file>image/nickname.png</file>
+        <file>image/Icon.ico</file>
+    </qresource>
+</RCC>
